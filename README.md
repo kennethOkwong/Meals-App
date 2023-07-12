@@ -1,24 +1,20 @@
 # Meals App
 
-Welcome to Meals App, built with flutter.
+Welcome to Meals App, built with Flutter.
 
 ## Description
-The meals app allow users to:
+The meals app allows users to:
 - Browse meals categories
-- Choose and navigate to read meals incredients
-- Mark meals as favourite
-- Apply filters (Vegan, gluten-free etc.)
+- Choose and navigate to read meal ingredients
+- Mark meals as favorite
+- Apply filters (Vegan, gluten-free, etc.)
 
 ## Flutter concepts demonstrated in the project
 1. Riverpod state management
 2. Managing Screen stacks
-3. Working with tabs abd side Drawers
+3. Working with tabs and side Drawers
 4. App theming
-5. Firebase database
-6. Feature-first Architecture
-7. Shared preferences
-8. Dart extension and more
-
+5. 
 ## Getting Started
 The first step to testing or running this app is getting the code
 
