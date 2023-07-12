@@ -14,7 +14,7 @@ The meals app allows users to:
 2. Managing Screen stacks
 3. Working with tabs and side Drawers
 4. App theming
-5. 
+
 ## Getting Started
 The first step to testing or running this app is getting the code
 
