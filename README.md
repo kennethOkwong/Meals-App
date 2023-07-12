@@ -30,12 +30,12 @@ Run the app to confirm that everything works
 ## App Features
 Major app screens are shown below:
 
-### Browsing Meal Categories
+#### Browsing Meal Categories
 <img src="./readMe_screenshots/categories.png" width="300" height="500">
 
-### Meal preparation details
+#### Meal preparation details
 <img src="./readMe_screenshots/mealdetails.png" width="300" height="500">
 
-### Meal filters
+#### Meal filters
 <img src="./readMe_screenshots/filters.png" width="300" height="500">
 
