@@ -1,16 +1,45 @@
-# meals_app
+# Meals App
 
-A new Flutter project.
+Welcome to Meals App, built with flutter.
+
+## Description
+The meals app allow users to:
+- Browse meals categories
+- Choose and navigate to read meals incredients
+- Mark meals as favourite
+- Apply filters (Vegan, gluten-free etc.)
+
+## Flutter concepts demonstrated in the project
+1. Riverpod state management
+2. Managing Screen stacks
+3. Working with tabs abd side Drawers
+4. App theming
+5. Firebase database
+6. Feature-first Architecture
+7. Shared preferences
+8. Dart extension and more
 
 ## Getting Started
+The first step to testing or running this app is getting the code
 
-This project is a starting point for a Flutter application.
+    git clone https://github.com/kennethOkwong/Meals-App.git
+    .
+    .
+    flutter pub get
 
-A few resources to get you started if this is your first Flutter project:
+Run the app to confirm that everything works
+    
+    flutter run
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## App Features
+Major app screens are shown below:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### Browsing Meal Categories
+<img src="./readMe_screenshots/categories.png">
+
+### Meal preparation details
+<img src="./readMe_screenshots/mealdetails.png">
+
+### Meal filters
+<img src="./readMe_screenshots/filters.png">
+
