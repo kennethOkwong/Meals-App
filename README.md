@@ -38,8 +38,8 @@ Major app screens are shown below:
 <img src="./readMe_screenshots/categories.png" width="300" height="500">
 
 ### Meal preparation details
-<img src="./readMe_screenshots/mealdetails.png" width="300" height="450">
+<img src="./readMe_screenshots/mealdetails.png" width="300" height="500">
 
 ### Meal filters
-<img src="./readMe_screenshots/filters.png" width="300" height="400">
+<img src="./readMe_screenshots/filters.png" width="300" height="500">
 
