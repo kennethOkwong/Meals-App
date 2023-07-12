@@ -35,11 +35,11 @@ Run the app to confirm that everything works
 Major app screens are shown below:
 
 ### Browsing Meal Categories
-<img src="./readMe_screenshots/categories.png">
+<img src="./readMe_screenshots/categories.png" width="300" height="600">
 
 ### Meal preparation details
-<img src="./readMe_screenshots/mealdetails.png" width="500" height="600">
+<img src="./readMe_screenshots/mealdetails.png" width="300" height="600">
 
 ### Meal filters
-<img src="./readMe_screenshots/filters.png">
+<img src="./readMe_screenshots/filters.png" width="300" height="600">
 
